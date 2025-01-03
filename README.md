@@ -2,8 +2,8 @@
 
 ### 🌟 About Me  
 
-- 🎓 Computer Science & Engineering undergraduate
-- 🌱 I’m currently learning node.js
+- 🎓 Computer Science & Engineering graduated
+- 🌱 I’m currently learning C# .Net
 
 ---
 
