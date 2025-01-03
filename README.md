@@ -10,12 +10,13 @@
 ### 🛠 Technical Skills  
 
 #### 💻 *Back-End*  
-- *C# (.NET Framework)*  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
 
 #### 🌐 *Front-End*  
-- *JavaScript*  
-- *HTML*  
-- *CSS*
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 #### 🗄 *Databases*  
 - *MySQL*  
