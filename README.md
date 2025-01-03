@@ -1,8 +1,9 @@
 ## Hi I'm Mohamed Khaled :bust_in_silhouette:
 
 ### 🌟 About Me  
-Hi there!  
-I’m *Mohamed Khaled, a recent graduate currently learning and improving my skills in software development. I’m focusing on the **.NET track* using *C#* for building applications and services.
+
+- 🎓 Computer Science & Engineering undergraduate
+- 🌱 I’m currently learning node.js
 
 ---
 
